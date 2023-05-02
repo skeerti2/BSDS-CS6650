@@ -2,6 +2,6 @@
 
 Upic is a global acquirer of ski resorts homogenizing skiing around the world.
 
-Goal for Course Project: Build a cloud based system (using AWS Cloud services) that can record all lift rides from all Upic resorts.
+Goal for Course Project: Build a cloud based system (using AWS Cloud services) that can record all lift rides from all Upic resorts and perform data analysis.
 
 Technology used: Java, RabbitMQ, Tomcat deployed to AWS EC2, Amazon Elastic Load Balancer, Redis.
